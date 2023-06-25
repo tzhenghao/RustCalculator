@@ -9,7 +9,7 @@ fn main() {
 	println!("hello?");
 	
 	// let hi = "hi";
-	let mut count = 0i;
+	let mut count = 0;
 
 	while count < 10 {
 		println!("count is {}", count);

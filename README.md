@@ -1,19 +1,18 @@
-RustCalculator
-==============
+# RustCalculator
 
-Introduction
------------
+## Introduction
+
 A simple calculator implementation using the Rust programming language.
 
-Installation
-------------
+## Installation
+
 You must have Rust installed on your system before you can run this program.
 
-Software Used
---------------
+## Software Used
+
 1. Rust
 
-Support
-------
-If you have any questions/concerns, please feel free to contact me. My email 
-address is tanzhao@umich.edu
+## Support
+
+If you have any questions/concerns, please feel free to contact me. My email
+address is <hi@zhenghaotan.com>
